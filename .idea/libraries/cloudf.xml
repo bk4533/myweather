@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloudf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/design/cloudf.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
